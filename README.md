@@ -19,6 +19,10 @@ I'm passionate about programming, problem solving, and writing clean, maintainab
 
 - "C++ Problem Solving" (https://github.com/zhwryaa-design/cpp-problem-solving) — A collection of C++ programming problems and solutions, with explanations to document my learning and problem-solving approach.
 
+🌐 Connect With Me
+
+- 📸 Instagram: "@Z6ehr" (https://www.instagram.com/Z6ehr/)
+
 ---
 
 Learning by doing. Improving with every project.
