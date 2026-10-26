@@ -1,23 +1,19 @@
 Hi, I'm Zehreddin 👋
 
-Aspiring Software Developer | C++ Programmer
+Aspiring Software Developer | Problem Solver
 
-I'm passionate about programming, problem solving, and writing clean, maintainable code. I'm focused on strengthening my programming fundamentals through hands-on practice and building projects.
+I'm passionate about problem solving, logical thinking, and breaking down complex problems into simple, manageable steps. I focus on developing analytical skills, understanding problems deeply, and designing clear, efficient solutions.
 
-- 💻 Currently developing my skills in C++
-- 🧠 Practicing problem solving and clean code principles
-- 🛠️ Building projects to apply what I learn
+- 🧠 Developing logical thinking and problem-solving skills
+- 🔍 Analyzing problems and breaking them down into smaller steps
+- 🧩 Exploring different approaches to find effective solutions
+- 🛠️ Applying problem-solving techniques through practical challenges
 - 🌱 Working toward Backend Development
-- 🎯 Focused on continuous learning and becoming a professional software developer
-
-🧰 Languages & Tools
-
-- Language: C++
-- Tools: Git, GitHub, Visual Studio
+- 🎯 Committed to continuous learning and improving my analytical thinking
 
 📌 Featured Project
 
-- "C++ Problem Solving" (https://github.com/zhwryaa-design/cpp-problem-solving) — A collection of C++ programming problems and solutions, with explanations to document my learning and problem-solving approach.
+- "C++ Problem Solving" (https://github.com/zhwryaa-design/cpp-problem-solving) — A collection of programming problems and solutions, with explanations focused on the problem-solving process, logical reasoning, and the approach behind each solution.
 
 🌐 Connect With Me
 
@@ -25,4 +21,4 @@ I'm passionate about programming, problem solving, and writing clean, maintainab
 
 ---
 
-Learning by doing. Improving with every project.
+Understand the problem. Think logically. Build the solution.
